@@ -15,8 +15,13 @@ void print_hallo (void)
 	printf (" \t \n");
 	printf (" \t \n");
 	printf (" \t \n");	
-	
-	printf ("And goodbye..\n");
+	printf (" \t \n");
+	printf (" \t \n");
+	printf (" \t \n");	
+	printf (" \t \n");
+	printf (" \t \n");
+	printf (" \t \n");
+	printf ("___________________________________________And goodbye..\n");
 	printf (" \t \n");
 
 }
