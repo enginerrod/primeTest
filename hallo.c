@@ -1,7 +1,12 @@
-/* hello.c */
+/* hallo.c */
 #include <stdio.h>
 
-int main (void)
+void print_hallo (void)
 {
-	printf ("Hallo Fork\n");
+	printf ("\n\t\t\t\tHalo Fork\n");
+	printf ("\nHalo Fork\n\n");
+	printf ("\t\t\t\t\tHalo\n");
+	printf ("\n\t\tFork\n");
+	printf ("\t\t\t\t\tFork\n");
+	printf ("\t\t\t\t\t\t\t\t\tFork\n");
 }
