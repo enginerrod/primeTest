@@ -9,4 +9,14 @@ void print_hallo (void)
 	printf ("\n\t\tFork\n");
 	printf ("\t\t\t\t\tFork\n");
 	printf ("\t\t\t\t\t\t\t\t\tFork\n");
+	printf (" \t \n");
+	printf (" \t \n");
+	printf (" \t \n");	
+	printf (" \t \n");
+	printf (" \t \n");
+	printf (" \t \n");	
+	
+	printf ("And goodbye..\n");
+	printf (" \t \n");
+
 }
